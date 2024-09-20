@@ -16,4 +16,3 @@ The following tools were used:
 - EJS = Write embedded JS into .ejs files
 - MYSQL2 = allows app to connect and run queries
 - Faker = auto generate large data for DB
-
